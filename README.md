@@ -33,14 +33,14 @@ Applicant Income is higher than the Co-applicant Income. Some of the co-applican
 
 ## Process
 
-### Loaded the data and reviewed 
-### Handled possible NaN Values, replaced them with mean values after
-### Looked at the box plots and Histograms for ApplicantIncome, Loan_Amount and categorical data like: gender, marital status, education etc
-### Handled the outliers w=to see the difference: more evenly distributed after handling the outliers
-### Looked at the CombinedIncome by creating a new colum (adding 2 incomes together)
-### Reviewed relation Between Applicant Income vs Loan Amount 
-### Created heatmap to look at the features
-### Built Logistic regression to predict the possible loan approval
+1. Loaded the data and reviewed 
+2. Handled possible NaN Values, replaced them with mean values after
+3. Looked at the box plots and Histograms for ApplicantIncome, Loan_Amount and categorical data like: gender, marital status, education etc
+4. Handled the outliers w=to see the difference: more evenly distributed after handling the outliers
+5. Looked at the CombinedIncome by creating a new colum (adding 2 incomes together)
+6. Reviewed relation Between Applicant Income vs Loan Amount 
+7. Created heatmap to look at the features
+8. Built Logistic regression to predict the possible loan approval
 
 ## Results/Demo
 Credit_History like it was predicted at the beginning has the most influence on the loan approval 
