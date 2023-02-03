@@ -34,4 +34,3 @@ if response.status_code == 200:
 else:
     print(response.json())
     print('request failed')
-
